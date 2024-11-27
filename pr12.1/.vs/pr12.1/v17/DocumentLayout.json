@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Politeh\\1 kurs\\AP\\LAB\\pr12\\pr12.1\\pr12.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D97BFEA-8709-4EAB-9E2A-75E467E079EA}|UnitTest1\\UnitTest1.vcxproj|D:\\Politeh\\1 kurs\\AP\\LAB\\pr12\\pr12.1\\pr12.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D97BFEA-8709-4EAB-9E2A-75E467E079EA}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D624B47A-4EA4-48BE-9EF2-A9C43189E337}|pr12.1\\pr12.1.vcxproj|D:\\Politeh\\1 kurs\\AP\\LAB\\pr12\\pr12.1\\pr12.1\\pr12.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D624B47A-4EA4-48BE-9EF2-A9C43189E337}|pr12.1\\pr12.1.vcxproj|solutionrelative:pr12.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D624B47A-4EA4-48BE-9EF2-A9C43189E337}|pr12.1\\pr12.1.vcxproj|D:\\Politeh\\1 kurs\\AP\\LAB\\pr12\\pr12.1\\pr12.1\\pr12.1\\a||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D624B47A-4EA4-48BE-9EF2-A9C43189E337}|pr12.1\\pr12.1.vcxproj|solutionrelative:pr12.1\\a||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D624B47A-4EA4-48BE-9EF2-A9C43189E337}|pr12.1\\pr12.1.vcxproj|D:\\Politeh\\1 kurs\\AP\\LAB\\pr12\\pr12.1\\pr12.1\\pr12.1\\b||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D624B47A-4EA4-48BE-9EF2-A9C43189E337}|pr12.1\\pr12.1.vcxproj|solutionrelative:pr12.1\\b||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\Politeh\\1 kurs\\AP\\LAB\\pr12\\pr12.1\\pr12.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\Politeh\\1 kurs\\AP\\LAB\\pr12\\pr12.1\\pr12.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T21:03:47.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "b",
+              "DocumentMoniker": "D:\\Politeh\\1 kurs\\AP\\LAB\\pr12\\pr12.1\\pr12.1\\pr12.1\\b",
+              "RelativeDocumentMoniker": "pr12.1\\b",
+              "ToolTip": "D:\\Politeh\\1 kurs\\AP\\LAB\\pr12\\pr12.1\\pr12.1\\pr12.1\\b",
+              "RelativeToolTip": "pr12.1\\b",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T20:59:59.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "a",
+              "DocumentMoniker": "D:\\Politeh\\1 kurs\\AP\\LAB\\pr12\\pr12.1\\pr12.1\\pr12.1\\a",
+              "RelativeDocumentMoniker": "pr12.1\\a",
+              "ToolTip": "D:\\Politeh\\1 kurs\\AP\\LAB\\pr12\\pr12.1\\pr12.1\\pr12.1\\a",
+              "RelativeToolTip": "pr12.1\\a",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T20:59:58.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Politeh\\1 kurs\\AP\\LAB\\pr12\\pr12.1\\pr12.1\\pr12.1\\Source.cpp",
+              "RelativeDocumentMoniker": "pr12.1\\Source.cpp",
+              "ToolTip": "D:\\Politeh\\1 kurs\\AP\\LAB\\pr12\\pr12.1\\pr12.1\\pr12.1\\Source.cpp",
+              "RelativeToolTip": "pr12.1\\Source.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAiwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T20:54:50.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
